@@ -4,7 +4,6 @@
 # In[1]:
 
 import streamlit as st
-from sklearn.datasets import load_iris
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
