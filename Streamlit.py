@@ -6,7 +6,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 
 st.title('DSS for HELOC')
 st.write('This is an application for a decision support system (DSS) that uses predictive modeling for evaluating the risk of Home Equity Line of Credit (HELOC). Please answer the following questions.')
